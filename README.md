@@ -12,7 +12,7 @@
 
 
 <h2>Usage:</h2>
-Modify api_key_id in incompatibledrivers.py to your API public key
+Modify api_key_id in nfnic-inventory.py to your API public key
 
 Modify SecretKey.txt to your API private key
 
